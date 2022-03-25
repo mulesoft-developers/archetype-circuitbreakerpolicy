@@ -2,7 +2,7 @@
 	<img
 	width="150"
 	src="/images/max-terminal.gif"></br>
-	Circuit Breaker Policy - Maven archetype<br>     
+	Maven archetype - Circuit Breaker custom policy<br>     
 </h1>
 
 <h4 align="center">
