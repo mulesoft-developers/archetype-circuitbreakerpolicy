@@ -12,7 +12,7 @@
 </h4>
 	
 <h3 align="center">
-	This is the tutorial short description<br><br>
+	This Mule project was created using the Maven archetype for Custom Policies. For more information, follow the Circuit Breaker custom policy tutorial.<br><br>
 </h3>
 
 ## Tutorial and Video
